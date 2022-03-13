@@ -1,6 +1,8 @@
 # Twin-DB9-2-USB
 a Dual db9 to usb adapter for use with TheC64 mini/maxi windows
 
+![20220313_081459](https://user-images.githubusercontent.com/19254619/158051422-097b6ce6-38e3-4139-a87c-73822b325872.png)
+
 if you use the above GERBER file there is an error on the ISP connecter with some pins 
 Do not use the isp header unless you build an adapter to correct the pins
 The Pro-micro can be programmed over usb with the usb cable though.
@@ -19,6 +21,7 @@ to add to the gamecontrollerdb.txt insert the following line at the beginning of
 03000000828200000132000001010000,DB9-2-USB,a:b4,b:b5,back:b6,lefttrigger:b0,leftx:a0,lefty:a1,righttrigger:b1,start:b7,x:b3,y:b2,platform:Linux,
 
 the above line(s) are 1 line of text in gamecontrollerdb.txt
+
 
 
 
